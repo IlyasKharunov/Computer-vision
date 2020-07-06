@@ -1,0 +1,16 @@
+rbf 3x3 9cell 9bin c = 1 9714 9196 t = 2297
+rbf 4x5 9cell 9bin c = 1 9426 8582 t = 2556
+rbf 3x3 9cell 9bin c = 1 9744 9257 t = 1946 linear interpol
+rbf 3x3 9cell 9bin c = 1 9777 ??? t = 2000 linear interpol + pixnum = 6 9961 with c = 5
+rbf 3x3 9cell 9bin c = 1 9764 ??? t = 3000 linear interpol + pixnum = 8
+rbf 2x2 9cell 9bin pixnum = 8 9855 t = 2300
+rbf 3x3 9cell 9bin c = 5 9946 9500-9526 t=1400 lin int 
+
+3000 t  9872 11 6 2x2
+ 3x3 11 cell 6 pixnum 9779
+ overlapping 2/3 6227 t 9856 3x3 9cell 9bin c = 1 pisnum = 6 
+ 
+ gamma 3e-2 overlapping 1/3 9951 t = 3200 9 bin 9 cell pixnum = 6
+ cell = 10 a не 9 то 9969 3200
+ cell = 11 то 9989 4500
+gamma 3e-2 overlapping 1/3 9939 t = 3000 9 bin 9 cell without resize
