@@ -1,4 +1,4 @@
-# Introduction-to-computer-vision
+# Computer-vision
 # 1_task - Align 3 greyscale images to 1 RGB image
 # 2_task - Create seam carve resize
 # 3_task - SVM traffic signs classification
